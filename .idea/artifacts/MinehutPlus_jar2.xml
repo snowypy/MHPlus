@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinehutPlus:jar2">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="MinehutPlus.jar">
+      <element id="module-output" name="MinehutPlus" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

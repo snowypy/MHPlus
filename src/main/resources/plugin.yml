@@ -1,0 +1,14 @@
+name: MHPlus
+version: 1.1
+main: xyz.snowy.minehuttracker.MinehutTracker
+api-version: 1.19
+authors: [ SnowyJS ]
+description: I <3 Trent
+website: https://mlg.lol/snowyjs
+commands:
+  checkserver:
+    description: Get the info of any minehut server
+    usage: checkserver <server name>
+  mhtracker:
+    description: Reload & get info about the plugin
+    usage: mhtracker <info>
